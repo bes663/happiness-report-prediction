@@ -1,1 +1,1 @@
-This project trains a linear regression model to predict "positive affect" in the World Happiness Report in 2018 based on a selected subset of features.
+This project trains a linear regression model to predict "positive affect" in the World Happiness Report in 2018 based on a selected subset of features. It also evaluates the model afterwards. Users can replicate this in their own Jupyter notebook and run training on different features. 
